@@ -1,0 +1,6 @@
+
+# Project data: never commit
+*.db
+*.csv
+*.zip
+*.parquet
