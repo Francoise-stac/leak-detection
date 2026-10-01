@@ -4,3 +4,7 @@
 *.csv
 *.zip
 *.parquet
+
+# Python cache
+__pycache__/
+*.pyc
